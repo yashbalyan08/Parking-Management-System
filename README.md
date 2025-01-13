@@ -109,9 +109,5 @@ Contributions to enhance the Parking Management System are welcome. To contribut
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Contact
-For questions or collaboration:
-- Email: [samarth8947@gmail.com](mailto:samarth8947@gmail.com)
-- LinkedIn: [Samarth Jangir](https://www.linkedin.com/in/samarth-jangir)
 
 ---
