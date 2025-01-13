@@ -12,7 +12,6 @@
 7. [Streamlit Dashboard](#streamlit-dashboard)
 8. [Contributing](#contributing)
 9. [License](#license)
-10. [Contact](#contact)
 
 ## Introduction
 The Parking Management System Using Computer Vision is designed to automate parking spot detection and billing with advanced computer vision techniques. It streamlines parking management, minimizes human error, and enhances the efficiency of parking facilities by integrating real-time vehicle number plate recognition, automated billing, and accurate data management.
@@ -106,8 +105,3 @@ Contributions to enhance the Parking Management System are welcome. To contribut
 4. Push changes to your fork.
 5. Create a pull request to the main repository.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-
----
